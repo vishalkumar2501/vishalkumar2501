@@ -43,15 +43,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Red Theme)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishalkumar2501&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=vishalkumar2501&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishalkumar2501&show_icons=true&theme=radical&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=vishalkumar2501&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar2501&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar2501&layout=compact&theme=radical&hide_border=true&title_color=ff4d4d"/>
 </p>
 
 ---
