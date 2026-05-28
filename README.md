@@ -56,16 +56,6 @@
 
 ---
 
-## 🔥 Contribution Graph (Improved but same look)
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar2501&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## 📊 Contribution Heatmap
 
 <p align="center">
