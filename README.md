@@ -57,7 +57,7 @@
 <img src="https://ghchart.rshah.org/00f7ff/vishalkumar2501" alt="Vishal's GitHub Contribution Chart"/>
 
 </div>      
----
+--------
 
 ## 💻 Tech Stack
 
