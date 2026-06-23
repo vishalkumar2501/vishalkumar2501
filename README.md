@@ -11,8 +11,8 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3g1M2g1NXg1NXg1NXg1NXg1NXg1NXg1NXg1NXg1NXg1bCZwaW5zPTE/hbvGNLXOvF9N9D2gGS/giphy.gif" width="25px"/> About Me
 
 A passionate **Full-Stack Developer** and **SDE Aspirant** driven by software scalability, clean architecture, and efficient problem-solving. I focus on building robust frontend architectures and efficient backend APIs.
-
-* 💼 Formally **Web Development Intern** at *Zidio Development*.
+* 💼 Intern at National Thermal Power Corporation (NTPC) Limited
+* 🚀 Former Web Development Intern at Zidio Development
 * 🧠 Cracking **Data Structures & Algorithms** daily using Java with a focus on optimization.
 * 🚀 Belief: `Consistency > Motivation`. Building production-ready software every single day.
 
