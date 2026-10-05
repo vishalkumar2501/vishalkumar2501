@@ -56,7 +56,9 @@ A passionate **Full-Stack Developer** and **SDE Aspirant** driven by software sc
 
 > **Focus Areas:** Deep understanding of Java Collections Framework, Advanced Arrays, Core Trees/Graphs, Dynamic Programming, and Low-Level System Design (LLD/JDBC/Servlets).
 
----## 📊 GitHub Analytics & Trophies
+---
+
+## 📊 GitHub Analytics & Trophies
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalkumar2501&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=7CFC00&text_color=39FF14&ring_color=00FF41&count_private=true"/>
@@ -77,15 +79,10 @@ A passionate **Full-Stack Developer** and **SDE Aspirant** driven by software sc
 
 <div align="center">
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar2501&bg_color=000000&color=00FF41&line=00FF41&point=ff6b00&area=true&area_color=39FF14&hide_border=true&custom_title=Daily%20Commit%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Agar aapne SVG file repo mein save ki hai to path update karein (e.g., ./activity-graph.svg) -->
+<img src="./activity-graph.svg" alt="Vishal's Activity Graph" width="100%" />
 
 </div>
-
----
-
-## 📊 Weekly Dev Breakdown
-
-> _Automatically updated via WakaTime — tracking development focus and efficiency._
 
 ---
 
