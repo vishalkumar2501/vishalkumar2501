@@ -69,7 +69,11 @@ A passionate **Full-Stack Developer** and **SDE Aspirant** driven by software sc
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishalkumar2501&hide_border=true&background=000000&ring=00FF41&fire=39FF14&currStreakLabel=39FF14&sideLabels=7CFC00&dates=4a6080&stroke=1e2a45&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishalkumar2501&theme=dark&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalkumar2501&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -79,8 +83,7 @@ A passionate **Full-Stack Developer** and **SDE Aspirant** driven by software sc
 
 <div align="center">
 
-<!-- Agar aapne SVG file repo mein save ki hai to path update karein (e.g., ./activity-graph.svg) -->
-<img src="./activity-graph.svg" alt="Vishal's Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar2501&bg_color=000000&color=00FF41&line=00FF41&point=ff6b00&area=true&area_color=39FF14&hide_border=true&custom_title=Daily%20Commit%20Activity%20Graph" alt="Daily Commit Activity Graph" width="100%" />
 
 </div>
 
